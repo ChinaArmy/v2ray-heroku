@@ -5,10 +5,10 @@
   "env": {
      "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
+       "value": "1fd6dadc-0d19-4ee7-9ebb-e6b8a23ec2c2"
      }   
   },
-  "website": "https://github.com/wangyi2005/v2ray-heroku",
-  "repository": "https://github.com/wangyi2005/v2ray-heroku",
+  "website": "https://github.com/ChinaArmy/v2ray-heroku",
+  "repository": "https://github.com/ChinaArmy/v2ray-heroku",
   "stack": "container"
  }
